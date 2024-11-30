@@ -1,9 +1,10 @@
 import React from 'react'
+import Resume from './resume'
 
 const App = () => {
   return (
     <div>
-      <p>Dev Console</p>
+      <Resume />
     </div>
   )
 }
